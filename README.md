@@ -4,7 +4,9 @@
   Neste projeto foi desenvolvido um diagrama de classes UML do primeiro Iphone, baseado na apresentação feita em 2007 pelo fundador da Apple, Steve Jobs.
   <a href="https://www.youtube.com/watch?v=9ou608QQRq8">Link da apresentação</a>
 </p>
-![UML Iphone](https://github.com/user-attachments/assets/b445644a-57dc-411c-8a95-5cdae23c0a74)
+
+![UML Iphone](https://github.com/user-attachments/assets/fda852ec-6897-4462-958c-3af4d1dd72d1)
+
 <p>Foi também desenvolvida uma aplicação em Java, para transformar esse diagrama UML em código seguindo os princípios da Programação Orientada a Objetos. Diversas ferramentas nativas do Java foram usadas como:</p>
 <ul>
   <li>Modificadores de visibilidade como: private, protected e public</li>
