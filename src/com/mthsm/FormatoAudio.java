@@ -12,6 +12,6 @@ public enum FormatoAudio {
     }
 
     public String getExtensao() {
-        return extensao;
+        return this.extensao;
     }
 }

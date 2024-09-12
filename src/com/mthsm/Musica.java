@@ -6,18 +6,21 @@ public class Musica {
     private String caminho;
 
     Musica(String nome, FormatoAudio formato, String caminho) {
+        this.nome = nome;
+        this.formato = formato;
+        this.caminho = caminho;
     }
 
     public String getNome() {
-        return nome;
+        return this.nome;
     }
 
     public String getCaminho() {
-        return caminho;
+        return this.caminho;
     }
 
     public String getFormato() {
-        return formato.getExtensao();
+        return this.formato.getExtensao();
     }
 
     public void setNome(String nome) {
